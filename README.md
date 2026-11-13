@@ -1,4 +1,4 @@
-# 🍔 LiteBite – Food Delivery App
+#  LiteBite – Food Delivery App
 
 LiteBite is a modern and user-friendly food delivery mobile application developed using **Flutter and Dart**. It provides an attractive and responsive interface where users can explore food categories, discover popular dishes, search for their favourite food, manage favourites, and add items to their shopping cart.
 
@@ -27,10 +27,7 @@ The application is designed to provide a smooth and convenient food ordering exp
 
 Explore the LiteBite mobile application through its modern and responsive interface.
 
-## 🚀 Project Goal
+## Project Goal
 
 The goal of LiteBite is to build a convenient and attractive food delivery application while improving practical skills in Flutter development, API integration, dynamic data handling, and mobile UI design.
 
----
-
-**Developed with ❤️ using Flutter & Dart.**
